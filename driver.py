@@ -40,16 +40,16 @@ if __name__ == "__main__":
                           help="Pricing levels to filter the search result with: 1 = $, 2 = $$, 3 = $$$, 4 = $$$$.")
 
     main()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+# © 2022 GitHub, Inc.
+# Terms
+# Privacy
+# Security
+# Status
+# Docs
+# Contact GitHub
+# Pricing
+# API
+# Training
+# Blog
+# About
+# Loading complete
