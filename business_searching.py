@@ -17,7 +17,7 @@ class BusinessSearch:
     def _parse_results(self, data):
         # Categories data : 'categories': [{'alias': 'bakeries', 'title': 'Bakeries'}]
         categories = ' '.join([category['title'] for category in data['categories']])
-
+        
         # Longitude and latitude data :  'coordinates': {'latitude': 45.5232, 'longitude': -73.583459}
         longitude = data['coordinates']['longitude']
         latitude = data['coordinates']['latitude']
